@@ -9,7 +9,7 @@ import Controls from './Controls'
 
 describe('<Controls />', () => {
     it('renders <Controls /> without crashing', () => {
-        render(<Controls />);
+        render(<Controls />);  
     })
 
     it('should create create a snapshot of <Controls/>', () => {
